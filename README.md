@@ -1,0 +1,1 @@
+# seogam.github.io
