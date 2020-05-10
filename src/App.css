@@ -27,7 +27,22 @@
 .App-link {
   color: #61dafb;
 }
-
+.top-menu{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.top-menu li{
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 15px;
+}
+.top-menu li a{
+  color: #fff;
+}
+.top-menu li a:hover{
+  text-decoration: none;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
